@@ -1,0 +1,8 @@
+definitions_version = 1
+
+[[theme]]
+name = "Nord"
+repository = "https://git.toastloop.com/leftwm-nord"
+commit = "*"
+version = "1.0"
+lefwm_versions="<0.3.0"
