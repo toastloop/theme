@@ -1,0 +1,3 @@
+[submodule "leftwm-nord"]
+	path = leftwm-nord
+	url = https://git.toastloop.com/toastloop/leftwm-nord.git
