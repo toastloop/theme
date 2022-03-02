@@ -1,8 +1,8 @@
 definitions_version = 1
 
 [[theme]]
-name = "Nord"
-repository = "https://github.com/toastloop/leftwm-nord"
+name = "RustyGlass"
+repository = "https://github.com/toastloop/rustyglass"
 commit = "*"
 version = "1.0"
 lefwm_versions="<0.3.0"
