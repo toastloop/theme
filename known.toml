@@ -6,3 +6,10 @@ repository = "https://github.com/toastloop/rustyglass"
 commit = "*"
 version = "1.0"
 lefwm_versions="<0.3.0"
+
+[[theme]]
+name = "ColorSpace"
+repository = "https://github.com/toastloop/colorspace"
+commit = "*"
+version = "1.0"
+lefwm_versions="<0.3.0"
